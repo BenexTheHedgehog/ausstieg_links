@@ -24,7 +24,7 @@ export default function _() {
             <InformationBlock imageRight={true}>
             <p>
                     <strong>Hinweis zum Datenschutz: Nur die Berater von ExitLinks haben Einsicht in Ihre Kommunikation.</strong>
-                </p>
+            </p>
             </InformationBlock>
             
         </div>
