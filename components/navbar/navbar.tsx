@@ -21,9 +21,7 @@ export default function Navbar() {
                 </div>
                 <div style={{paddingRight:'10px'}}>
                     <ul>
-                        <li><a href="/"><i className="fa-brands fa-square-facebook"></i></a></li>
-                        <li><a href="/"><i className="fa-brands fa-square-x-twitter"></i></a></li>
-                        <li><a href="/"><i className="fa-brands fa-square-instagram"></i></a></li>
+                        <li><a href="https://twitter.com/Exit_Links"><i className="fa-brands fa-square-x-twitter"></i></a></li>
                     </ul>
                 </div>
             </div>
