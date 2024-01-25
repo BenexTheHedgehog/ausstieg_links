@@ -10,23 +10,27 @@ export default function _() {
                 <InformationBlock imageRight={true} image="map.png" width="400px" height="auto">
                     <h1>Wer sind wir?</h1>
                     <p>
-                        Distance – Ausstieg Rechts ist ein gemeinnütziges und zivilgesellschaftliches Ausstiegsprogramm für Nord-West und Süd-Niedersachsen. Das Projekt wird im Rahmen des Bundesprogramms „Demokratie leben! Demokratie fördern. Vielfalt gestalten. Extremismus vorbeugen.“ mit Mitteln des BMFSFJ durch das Landes-Demokratiezentrum Niedersachsen (L-DZ) und aus Mitteln des Niedersächsischen Justizministeriums durch das „Landesprogramm für Demokratie und Menschenrechte“ gefördert.
+                        ExitLinks ist ein gemeinnütziges und zivilgesellschaftliches Ausstiegsprogramm sowie ein Recherchenetzwerk. 
+                        Das Programm wird durch die AfD in Thüringen und weitere demokratische Teilnehmer der Zivilgesellschaft unterstützt.
                     </p>
                     <p>
-                        Das Anliegen unserer Arbeit ist es, Personen die sich anti-demokratischen, rechtsextremen und menschenverachtenden Gruppierungen zugewandt haben, in die Zivilgesellschaft zurückzuführen und sie auf diesem Weg zu unterstützen.
+                        Das Hauptziel von ExitLinks ist es, Personen, die sich extremistischen, linksextremen und menschenverachtenden Gruppierungen zugewandt haben, wieder in die Zivilgesellschaft zu integrieren und sie auf diesem Weg zu unterstützen.
                     </p>
                     <p>
-                        Das Team von Distance – Ausstieg Rechts kommt aus ver-schiedenen Bereichen der Pädagogik, Sozial- und Geistes-wissenschaften und steht als kompetente und vertrauensvolle Anlaufstelle allen Interessierten zur Verfügung.
+                        Das Team von ExitLinks setzt sich aus verschiedenen Fachbereichen wie Jura, Informatik, Politik, Sozialwissenschaften und Geisteswissenschaften zusammen. Es steht als kompetente und vertrauenswürdige Anlaufstelle allen Interessierten zur Verfügung.
                     </p>
                 </InformationBlock>
 
-                <InformationBlock imageRight={false} image="logo1.png" width="300px" height="auto">
-                    <p>Distance – Ausstieg Rechts ist Mitglied im Nordverbund Ausstieg Rechts, dem Netzwerk der zivil­gesellschaftlichen Distanzierungs- und Ausstiegsprogramme der norddeutschen Bundes­länder (Bremen, Hamburg, Mecklenburg-­Vorpommern, Niedersachsen und Schleswig-­Holstein). Der Nordverbund ­arbeitet eng über Ländergrenzen hinweg zusammen und vernetzt die Programme um gelungene Ausstiegsarbeit und Distanzierungsprozesse aus extrem rechten Einstellungen und Zusammenhängen zu fördern.</p>
+                <InformationBlock imageRight={false} image="" width="0px" height="auto">
+                    <p>
+                        Wir geben keine Informationen aus Gesprächen oder anderen Kontakten an Sicherheitsbehörden oder Dritte ohne Einverständnis der Klienten weiter. In der Kommunikation legen wir ebenfalls großen Wert auf Sicherheit und halten uns an die Datenschutzbestimmungen.
+                    </p>
                 </InformationBlock>
 
-                <InformationBlock imageRight={true} image="logo2.jpg" width="300px" height="auto">
-                    <p>Die Bundesarbeitsgemeinschaft (BAG) – Ausstieg zum Einstieg ist der bundesweite Dachverband zivilgesellschaftlicher Akteure der Ausstiegs- und Distanzierungshilfe aus extrem rechten Zusammenhängen. Sie hat die Förderung zivilgesellschaftlicher Strukturen im Themenfeld zum Ziel und setzt sich parteiunabhängig für eine fachliche Arbeit ein.</p>
-                    <p>Wir halten fachlichen Austausch, Vernetzung und Kooperation für notwendig, um eine professionelle Ausstiegsbegleitung anbieten zu können, und sind seit Anfang 2021 Mitglied der BAG.</p>
+                <InformationBlock imageRight={true} image="" width="0px" height="auto">
+                    <p>
+                    Ein gelungener Ausstieg muss von der Person selbst als wünschenswert erkannt werden. Wir setzen deshalb auf Freiwilligkeit, das heißt, Klienten entscheiden selbst, ob und welche Begleitung sie sich wünschen. In Ausnahmefällen prüfen wir, ob wir Härtefällen mögliche Umstiegsmöglichkeiten in einen neuen Job liefern können.
+                    </p>
                 </InformationBlock>
                 <div className={styles.lastBlock}>
                     <h1>Unser Leitbild</h1>
